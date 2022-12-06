@@ -1,0 +1,11 @@
+---
+title: "Overview"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Below, we have described the demographics of the perpetrators and the victims, including age group and race/ethnicity. Of note, these data included many NA entries. We see that most victims and perpetrators were aged 18-44 years, were of black race, with a high number of incidents with black male perpetrators and victims [need to check with Jen that I am interpreting her description correctly]. For the purposes of simplifying race/ethnicity categorization, we lumped white Hispanic and black Hispanic individuals into a single category titled “Hispanic”.
+

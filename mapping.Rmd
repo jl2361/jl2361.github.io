@@ -1,0 +1,13 @@
+---
+title: "Mapping"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+Scatterplot
+We created a scatterplot of the location (latitude and longitude) of the shootings in the five boroughs of NYC. We overlaid this onto a map of NYC using the leaflet library. Using plotly, we were also able to give information on the month, year, borough, and the category of location (private house, public housing, restaurant, etc) in the text box that appears when hovering over the plot.
+ 
+

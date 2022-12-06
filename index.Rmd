@@ -1,0 +1,21 @@
+---
+title: "NYC Shooting Data"
+author: "Elise, Jen, Aaron, Aaki, Margaret"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+ 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+Welcome to our final project website for p8105!
+ 
+The links above describe our project’s dataset present our analyses, a project report, and a screencast. 
+ 
+
+ 
+ 
+

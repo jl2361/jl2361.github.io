@@ -1,0 +1,13 @@
+---
+title: "Holidays"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+We were interested to see if shooting incidents occurred more commonly on holidays over other days of the year. 
+We included the XX major national holidays: [need to fill in]
+Since the date of each holiday differed each year, we created a code to [describe Aaron’s code]
+ 

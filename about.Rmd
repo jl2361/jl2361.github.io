@@ -1,0 +1,53 @@
+---
+title: "About"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+NYC Shootings Dataset
+
+This dataset, which is publicly available on the NYC Open Data website (https://data.cityofnewyork.us/Public-Safety/NYPD-Shooting-Incident-Data-Historic-/833y-fsy8), includes every shooting incident that took place in New York City from 2006 to 2021. The Office of Management Analysis and Planning manually extracts and reviews the data on a quarterly basis before posting it on the NYPD website. Each record describes a shooting incident in one of the five NYC boroughs and offers demographic details about the victim and perpetrator, the time and location (latitude and longitude, type of property, etc) of the incident, whether the shooting resulted in death, etc. The NYC Open Data website offers the data so that the public can “explore the nature of shooting/criminal activity.” Our team of P8105 students was up to this challenge and performed a variety of exploratory analyses, which are described above. 
+ 
+Below, we have described the variables included in this dataset, and have included comments about each:
+
+Incident_key: randomly generated persistent ID for each arrest
+
+Occur_date: exact date of the shooting incident
+
+Occur_time: exact time of shooting incident
+
+Boro: borough where the shooting incident occurred
+
+Precinct: precinct where the shooting incident occurred
+
+Jurisdiction_code: jurisdiction where the shooting incident occurred
+
+Location_desc: location of the shooting incident
+
+Statistical_murder_flat: shooting results in the victim’s death, would be counted as a murder
+
+perp _age_group: perpetrator's age within a category
+
+Perp_sex: perpetrator’s sex description
+
+Perp_race: perpetrator’s race description
+
+Vic_age_group: victim’s age within a category
+
+Vic_sex: Victim’s sex description
+
+Vic_race: victim’s race description
+
+X_coord_cd: midblock X-coordinate for New York State Plane Coordinate System
+
+Y_coord_cd: midblock Y-coordinate for New York State Plane Coordinate System
+
+Latitude: latitude coordinate for Global Coordinate System
+
+Longitude: longitude coordinate for Global Coordinate System
+
+Lon_Lat: longitude and latitude coordinates for mapping
+ 
