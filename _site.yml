@@ -2,14 +2,14 @@ name: "Shooting project!"
 output_dir: "."
 navbar:
   title: "Home"
-right:
-  - text: "About the Data"
-href: about.html 
-- text: "Overview/Demographics"
-href: overview.html
-- text: "Mapping"
-href: mapping.html 
-- text: “Time analyses"
+  right:
+    - text: "About the Data"
+      href: about.html 
+    - text: "Overview/Demographics"
+      href: overview.html
+    - text: "Mapping"
+      href: mapping.html 
+    - text: “Time analyses"
       href: timeanalyses.html
     - text: "Holidays"
       href: holidays.html 
@@ -22,7 +22,7 @@ href: mapping.html
     - icon: fa-solid
       href: mailto:<ag2965@cumc.columbia.edu>
     - icon: fa-github fa-lg
-      href: http://github.com/ag2965/
+      href: http://github.com/ek2794/
 output:
   html_document:
     theme: cerulean
